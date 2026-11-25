@@ -1,4 +1,5 @@
 # HR-Analytics-Employee-Attrition-Analysis
+
 1. Project Overview
 
 This project focuses on analyzing employee data to understand employee attrition and identify factors affecting employee retention using SQL Server.
