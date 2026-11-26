@@ -1,9 +1,7 @@
 create database HR_Analytics
 use HR_Analytics;
 
-
 --Data Exploration
-
 
 --All detils about Employee table
 SELECT * FROM dbo.Employee;
@@ -24,7 +22,7 @@ SELECT Department FROM Employee
 GROUP BY Department;
 
 
---Unique JobRole
+--Unique JobRole.
 SELECT  DISTINCT JobRole AS Unique_JobRole 
 FROM Employee;
 
